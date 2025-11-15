@@ -1,1 +1,4 @@
-We make this test file to learn git and how it works. Before it was is ignore file so git wasn't tracking it. But now it will show that tracking is working in this file for git.
+We make this test file to learn git and how it works. This is a new branch. Before it was is ignore file so git wasn't tracking it. But now it will show that tracking is working in this file for git.
+
+This is a test that git is working. Test 01
+Now we are in git branch named FixTemp.
