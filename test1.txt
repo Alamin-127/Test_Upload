@@ -2,3 +2,5 @@ We make this test file to learn git and how it works. This is a new branch. Befo
 
 This is a test that git is working. Test 01
 Now we are in git branch named FixTemp.
+
+This is a new branch for testing. It is nice to learn Git and GitHub. 
