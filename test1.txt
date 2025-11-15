@@ -1,0 +1,1 @@
+We make this test file to learn git and how it works. Before it was is ignore file so git wasn't tracking it. But now it will show that tracking is working in this file for git.
