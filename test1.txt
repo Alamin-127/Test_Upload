@@ -4,3 +4,5 @@ This is a test that git is working. Test 01
 Now we are in git branch named FixTemp.
 
 This is a new branch for testing. It is nice to learn Git and GitHub. 
+
+Git will pick up this change. As it is a track file.
